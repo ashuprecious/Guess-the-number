@@ -1,7 +1,7 @@
 # Guess the number-
 
 Link to visit and play the game online->
-
+https://ashuprecious.github.io/Guess-the-number/
 
 Here is the very nice game , guess te number, you can guess the number and if the number is corret you will win the game
 
